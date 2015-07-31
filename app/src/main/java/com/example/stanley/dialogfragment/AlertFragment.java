@@ -6,9 +6,7 @@ import android.app.DialogFragment;
 import android.content.DialogInterface;
 import android.os.Bundle;
 
-/**
- * Created by Stanley on 2015-07-28.
- */
+
 public class AlertFragment extends DialogFragment {
 
     @Override
